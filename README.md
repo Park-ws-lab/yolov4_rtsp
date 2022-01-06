@@ -1,3 +1,7 @@
+## weights/checkpoint google drive <br>
+### url : https://drive.google.com/file/d/1FpV5wlshMIiTF82-afCiP2vA3CwVAb0q/view?usp=sharing
+
+---
 # tensorflow-yolov4-tflite
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
